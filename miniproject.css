@@ -1,0 +1,48 @@
+*{
+    margin:10;
+    padding: 10;
+    text-decoration: none;
+}
+.heading-1{
+    text-decoration:horizontal line;
+    text-align: center;
+    font-size: 50px;
+    font-family:Arial ;
+}
+.heading-2{
+    text-align: center;
+    display:block;
+    margin: 0;
+    padding: 1px;
+    position: relative;
+    background:linear-gradient(to left,green,blue);
+    font-family: Arial;
+}
+.paragraph-flexbox{
+    text-decoration:none;
+    text-align:center;
+    display: flex;
+    justify-content:space-between;
+    border:0px;
+    font-family:Arial;
+    list-style: none;
+}.paragraph-flexbox ul li{
+    list-style: none;
+}
+
+hr{
+    background: linear-gradient(to left,green,blue);
+    height: 5px;
+
+}.heading-3 ul li{
+    font-size: 20px;
+    font-family:Arial;
+    list-style: none;
+}
+.unorder-list{
+    font-family:Arial ;
+}.table{
+    border:0;
+}.heading-4{
+    font-family:Arial ;
+}
